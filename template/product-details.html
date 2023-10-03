@@ -1,0 +1,62 @@
+<style>
+    .product-space {
+        margin-left: 315px;
+        margin-top: -324px;
+    }
+
+    .product-info {
+        margin-top: 46px;
+    }
+
+    .product-info1 {
+        margin-left: 160px;
+        margin-top: -47px;
+    }
+
+    .btn-primary {
+        color: greenyellow;
+        background: red;
+    }
+
+    .btn-secondary {
+        color: green;
+        background: blue;
+    }
+    .products-list{
+        margin-left: -237px;
+    }
+    .anc{
+        margin-left: 915px;
+    }
+</style>
+<div class="products-list">
+    <div class="products-details ">
+        <a class="anc" href="/products">Back</a>
+        <div class=" product-image">
+            <img src="{{%%modelImage%%}}"  style="border-radius: 16px;" width="300px" height="300">
+        </div>
+        <div class="product-space ">
+            <h3>{{%%name%%}}</h3>
+            <p><span>Model Name:</span>{{%%productName%%}}</p>
+            <p style="margin-top: -16px;"><span>Model Number:</span>{{%%modelName%%}}</p>
+            <p style="margin-top: -16px;"><span>Size:</span>{{%%size%%}}</p>
+            <p style="margin-top: -16px;"><span>Camera:</span>{{%%camera%%}}</p>
+            <p style="margin-top: -16px;"><span>Details:</span>{{%%details%%}}</p>
+            <p style="margin-top: -16px;"><span>Description:</span>{{%%description%%}}</p>
+
+
+        </div>
+    </div>
+    <div class="product-detail">
+        <div class="product-info">
+            <h4>Price:{{%%price%%}}</h4>
+        </div>
+        <div class="product-info1">
+            <h4>Color:{{%%color%%}}</h4>
+        </div>
+        <div class="product-info2">
+            <a style="color: red; background: yellow; border-radius: 10px; margin-left: 77px;" href="/products?buy=crt">Buy Now</a>
+        </div>
+
+    </div>
+</div>

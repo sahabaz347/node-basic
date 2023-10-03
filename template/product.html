@@ -1,0 +1,67 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+</head>
+<body>
+    <h1>this is about node js routing</h1>
+</body>
+</html> -->
+<style>
+    .product-space {
+        margin-left: 137px;
+        margin-top: -169px;
+    }
+
+    .product-info {
+        margin-top: -16px;
+    }
+
+    .product-info1 {
+        margin-left: 98px;
+        margin-top: -47px;
+    }
+
+    .btn-primary {
+        color: greenyellow;
+        background: red;
+    }
+
+    .btn-secondary {
+        color: green;
+        background: blue;
+    }
+    .products-list{
+        margin-left: -237px;
+    }
+</style>
+<div class="products-list">
+    <div class="products-details ">
+        <div class=" product-image">
+            <img src="{{%%modelImage%%}}" style="border-radius: 10px;" width="131px" height="138px">
+        </div>
+        <div class="product-space ">
+            <h3>{{%%name%%}}</h3>
+            <p><span>Model Name:</span>{{%%productName%%}}</p>
+            <p style="margin-top: -16px;"><span>Model Number:</span>{{%%modelName%%}}</p>
+            <p style="margin-top: -16px;"><span>Size:</span>{{%%size%%}}</p>
+            <p style="margin-top: -16px;"><span>Camera:</span>{{%%camera%%}}</p>
+
+        </div>
+    </div>
+    <div class="product-detail">
+        <div class="product-info">
+            <h4>Price:{{%%price%%}}</h4>
+        </div>
+        <div class="product-info1">
+            <h4>Color:{{%%color%%}}</h4>
+        </div>
+        <div class="product-info2">
+            <a style="color: red; background: yellow; border-radius: 10px;" href="/products?buy=crt">Buy Now</a>
+            <a style="color: blue; background: green; border-radius: 10px;" href="/products?id={{%%id%%}}">Show Details</a>
+        </div>
+
+    </div>
+</div>

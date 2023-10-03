@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "name": "Apple",
+        "productName":"Apple",
+        "modelName":"I 15 pro",
+        "size":"6 x 5",
+        "camera":"16 px",
+        "price":"$123",
+        "color": "red",
+        "rom": "128",
+        "image": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg?q=70",
+        "details":"128 GB ROM  15.49 cm (6.1 inch) Super Retina XDR Display 12MP + 12MP | 12MP Front Camera A15 Bionic Chip Processor",
+        "description":"iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension."
+    },
+    {
+        "id": "1",
+        "name": "Mi",
+        "productName":"Mi",
+        "modelName":"M 110 pro",
+        "size":"6 x 5",
+        "camera":"32 px",
+        "price":"$80",
+        "color": "green",
+        "rom": "32",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/7/y/u/-original-imagqmtfu8gt62yv.jpeg?q=70",
+        "details":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB 16.94 cm (6.67 inch) Full HD+ AMOLED Display 108MP + 8MP + 2MP | 16MP Front Camera 4500  Battery Mediatek Dimensity 920 Processor",
+        "description":"Let yourself experience and immerse in the world of mesmerising smartphone experience with Xiaomi 11i Hypercharge 5G which comes loaded with mind-blowing features. This phone features a monstrous 4500 mAh battery with 67 W Turbo Charging capability that powers up the devic"
+    },
+    {
+        "id": "2",
+        "name": "Realme",
+        "productName":"Realme",
+        "modelName":"R 19 pro",
+        "size":"6 x 5",
+        "camera":"48 px",
+        "price":"$85",
+        "color": "blue",
+        "rom": "64",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/q/6/-original-imags487ftf3g2s7.jpeg?q=70",
+        "details":"6 GB RAM | 128 GB ROM | Expandable Upto 2 TB 17.12 cm (6.74 inch) HD Display 108MP + 2MP | 8MP Front Camera 5000 mAh Battery T612 Processor",
+        "description":"Enjoy a seamless experience with multitude of benefits on this realme C53 smartphone. Take stunning photoshoots with the 108 MP camera and take amazing photos in pixel mode and 3X zoom modes. Sporting a slim 7.99 mm display, you can have an amazing visual interaction with"
+    },
+    {
+        "id": "3",
+        "name": "Apple",
+        "productName":"Apple",
+        "modelName":"I 15 pro",
+        "size":"6 x 5",
+        "camera":"16 px",
+        "price":"$123",
+        "color": "red",
+        "rom": "128",
+        "image": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70",
+        "details":"128 GB ROM  15.49 cm (6.1 inch) Super Retina XDR Display 12MP + 12MP | 12MP Front Camera A15 Bionic Chip Processor",
+        "description":"iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. "
+    }
+]
